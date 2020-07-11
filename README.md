@@ -1,4 +1,4 @@
-# Spatial Analysis with Dask
+# Spatial Join with Dask
 <p align="center"> <img src="image/dask.png"/> </p>
 <p align="center">This image is retrieved from <a href="https://dask.org/">Dask organization</a>.
 </p>
